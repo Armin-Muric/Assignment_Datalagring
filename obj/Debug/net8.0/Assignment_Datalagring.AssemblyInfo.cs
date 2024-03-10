@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Assignment_Datalagring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b56058d57601cf1fa5e032e20ca696abf393089")]
 [assembly: System.Reflection.AssemblyProductAttribute("Assignment_Datalagring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Assignment_Datalagring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

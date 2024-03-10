@@ -145,9 +145,10 @@ C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\De
 C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\Assignment_Datalagring.AssemblyInfoInputs.cache
 C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\Assignment_Datalagring.AssemblyInfo.cs
 C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\Assignment_Datalagring.csproj.CoreCompileInputs.cache
-C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\Assignment_Datalagring.csproj.CopyComplete
 C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\Assignment_Datalagring.dll
 C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\refint\Assignment_Datalagring.dll
 C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\Assignment_Datalagring.pdb
 C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\Assignment_Datalagring.genruntimeconfig.cache
 C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\ref\Assignment_Datalagring.dll
+C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\Assignment_Datalagring.sourcelink.json
+C:\Users\46704\source\repos\Assignment_Datalagring\Assignment_Datalagring\obj\Debug\net8.0\Assignme.04540FDB.Up2Date
